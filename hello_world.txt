@@ -1,1 +1,3 @@
 Here is some text for this file!
+
+Testing new commit option.
